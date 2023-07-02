@@ -12,12 +12,13 @@ Extract text from tables in PDF to CVS
 9. Финальная встреча и презентация результата 18/07
 
 ## Гипотезы:
-1. Img2table https://betterprogramming.pub/extracting-tables-from-images-in-python-made-easy-ier-3be959555f6f
-   https://dev.to/shittu_olumide_/extract-tables-from-images-in-python-230a Аня
-3. Papers with code https://github.com/Psarpei/Multi-Type-TD-TSR/blob/main/Table_Recognition.ipynb Даша
-4. EasyOCR Jaded https://github.com/JaidedAI/EasyOCR Глеб
-5. PyPDF2 GPT4 solution. Аня
-6. Pytesseract AIS solution Даша
-7. Pytesseract GPT3 solution Глеб
-8. Pytesseract распознавание сложной таблицы https://habr.com/ru/articles/546824/ Бонус у кого будет время)
+1. Img2table + Pytesseract 
+https://betterprogramming.pub/extracting-tables-from-images-in-python-made-easy-ier-3be959555f6f
+https://dev.to/shittu_olumide_/extract-tables-from-images-in-python-230a 
+https://habr.com/ru/articles/546824/
+2. Papers with code https://github.com/Psarpei/Multi-Type-TD-TSR/blob/main/Table_Recognition.ipynb 
+
+Дополнительно: 
+- EasyOCR Jaded https://github.com/JaidedAI/EasyOCR 
+- PyPDF2 GPT4 solution
  
